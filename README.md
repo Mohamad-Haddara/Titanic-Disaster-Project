@@ -49,11 +49,10 @@ This project follows the complete data science workflow — from data cleaning a
   - **Jupyter Notebook**
 
 ## 📈 Results
-| Model                | Accuracy | Precision | Recall | F1 Score |
-|----------------------|----------|-----------|--------|----------|
-| Logistic Regression  | 0.80     | 0.78      | 0.74   | 0.76     |
-| Random Forest        | 0.83     | 0.80      | 0.78   | 0.79     |
-| SVM                  | 0.82     | 0.79      | 0.77   | 0.78     |
+| Model                | Accuracy | Precision | Recall |
+|----------------------|----------|-----------|--------|
+| Random Forest        | 0.92     | 0.90      | 0.88   |
+
 
 ---
 
